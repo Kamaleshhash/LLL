@@ -1,0 +1,28 @@
+export const translations = {
+  en: {
+    portalTitle: 'Land Litigation Lookup + Survey-Based Case Tracking',
+    subtitle: 'Integrated land and court record intelligence portal',
+    login: 'Login with OTP',
+    guestMode: 'Continue as Guest',
+    search: 'Search',
+    village: 'Village',
+    survey: 'Survey Number',
+    district: 'District',
+    state: 'State',
+    caseFilters: 'Case Filters',
+    noMatches: 'No matches found. Please use manual verification tips.',
+  },
+  ta: {
+    portalTitle: 'நில வழக்கு தேடல் + சர்வே அடிப்படையிலான கண்காணிப்பு',
+    subtitle: 'நில மற்றும் நீதிமன்ற பதிவுகள் ஒருங்கிணைந்த தளம்',
+    login: 'OTP மூலம் உள்நுழை',
+    guestMode: 'விருந்தினர் முறையில் தொடர்க',
+    search: 'தேடு',
+    village: 'கிராமம்',
+    survey: 'சர்வே எண்',
+    district: 'மாவட்டம்',
+    state: 'மாநிலம்',
+    caseFilters: 'வழக்கு வடிகட்டிகள்',
+    noMatches: 'பதிவுகள் இல்லை. கையேடு சரிபார்ப்பு வழிகாட்டுதல்களை பின்பற்றவும்.',
+  },
+}

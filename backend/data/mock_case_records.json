@@ -1,0 +1,42 @@
+[
+  {
+    "cnr_number": "TNHC010012342022",
+    "case_type": "Title Dispute",
+    "court_name": "Principal District Court, Salem",
+    "petitioner": "Ravi Subramanian",
+    "respondent": "Arun Prakash",
+    "filing_date": "2022-03-17",
+    "last_hearing_date": "2025-11-05",
+    "next_hearing_date": "2026-03-18",
+    "status": "pending",
+    "stage": "Evidence Recording",
+    "order_pdf_url": "https://example.gov/orders/TNHC010012342022.pdf",
+    "summary": "Dispute over title transfer and boundary demarcation in Veerapandi survey 45/2B.",
+    "risk_score": 0.81,
+    "events": [
+      {"event_date": "2025-11-05", "title": "Witness Examination", "description": "PW-2 examined."},
+      {"event_date": "2025-07-12", "title": "Interim Order", "description": "Status quo continued."},
+      {"event_date": "2022-03-17", "title": "Case Filed", "description": "Plaint filed before district court."}
+    ]
+  },
+  {
+    "cnr_number": "TNSL020045672020",
+    "case_type": "Encroachment",
+    "court_name": "Sub Court, Salem",
+    "petitioner": "Meena Kannan",
+    "respondent": "Ravi Subramanian",
+    "filing_date": "2020-09-03",
+    "last_hearing_date": "2025-10-21",
+    "next_hearing_date": "2026-04-09",
+    "status": "pending",
+    "stage": "Arguments",
+    "order_pdf_url": "https://example.gov/orders/TNSL020045672020.pdf",
+    "summary": "Alleged encroachment across adjacent survey boundaries 45/2A and 45/2B.",
+    "risk_score": 0.74,
+    "events": [
+      {"event_date": "2025-10-21", "title": "Arguments Heard", "description": "Final arguments partly heard."},
+      {"event_date": "2023-01-11", "title": "Commissioner Report", "description": "Field inspection report filed."},
+      {"event_date": "2020-09-03", "title": "Suit Instituted", "description": "Suit for injunction and possession."}
+    ]
+  }
+]

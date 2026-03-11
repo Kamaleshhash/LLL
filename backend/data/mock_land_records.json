@@ -1,0 +1,50 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "taluk": "Salem",
+    "village_name": "Veerapandi",
+    "survey_number": "45/2B",
+    "owner_name": "Ravi Subramanian",
+    "area_hectare": 1.25,
+    "land_type": "Agricultural",
+    "ror_reference": "TN-SLM-VRP-45-2B",
+    "geojson_boundary": {
+      "type": "Polygon",
+      "coordinates": [[[78.127,11.663],[78.129,11.663],[78.129,11.665],[78.127,11.665],[78.127,11.663]]]
+    },
+    "linked_cases": ["TNHC010012342022", "TNSL020045672020"]
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "taluk": "Salem",
+    "village_name": "Veerapandi",
+    "survey_number": "45/2A",
+    "owner_name": "Meena Kannan",
+    "area_hectare": 0.85,
+    "land_type": "Residential",
+    "ror_reference": "TN-SLM-VRP-45-2A",
+    "geojson_boundary": {
+      "type": "Polygon",
+      "coordinates": [[[78.125,11.661],[78.126,11.661],[78.126,11.662],[78.125,11.662],[78.125,11.661]]]
+    },
+    "linked_cases": ["TNSL020045672020"]
+  },
+  {
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "taluk": "Omalur",
+    "village_name": "Kanjanaickenpatti",
+    "survey_number": "11/3C",
+    "owner_name": "Siva Kumar",
+    "area_hectare": 2.1,
+    "land_type": "Agricultural",
+    "ror_reference": "TN-SLM-KNP-11-3C",
+    "geojson_boundary": {
+      "type": "Polygon",
+      "coordinates": [[[78.042,11.741],[78.044,11.741],[78.044,11.743],[78.042,11.743],[78.042,11.741]]]
+    },
+    "linked_cases": []
+  }
+]
